@@ -107,3 +107,8 @@
 /Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/NetworkUtility.dll
 /Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/NetworkUtility.pdb
 /Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/obj/Debug/net8.0/NetworkUtility.Tests.sourcelink.json
+/Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/Castle.Core.dll
+/Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/FakeItEasy.dll
+/Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/loke/Coding/cs/console/Network/NetworkUtility.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
