@@ -4,13 +4,14 @@ using NetworkUtility.Ping;
 using NetworkUtility.Ping.Model;
 using Xunit;
 namespace NetworkUtility.Tests.PingTests;
-
+   
 public class NetworkServiceTests
 {
     private readonly NetworkService _pingService;
 
     public NetworkServiceTests()
     {
+        
         _pingService = new NetworkService();
     }
     [Fact]
