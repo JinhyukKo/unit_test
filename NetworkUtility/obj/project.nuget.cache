@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6dEisZv8010=",
+  "dgSpecHash": "glgBbWsz3mI=",
   "success": true,
   "projectFilePath": "/Users/loke/Coding/cs/console/Network/NetworkUtility/NetworkUtility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/loke/.nuget/packages/fluentassertions/6.12.1/fluentassertions.6.12.1.nupkg.sha512",
+    "/Users/loke/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/Users/loke/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
