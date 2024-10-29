@@ -24,14 +24,14 @@ public class NetworkServiceTests
     public void NetworkService_SendPing_ReturnString()
     {
         // Arrange - Variables,Classes,Mocks
-        A.CallTo(() => _dnsService.SendDNS()).Returns(true);
+        // A.CallTo(() => _dnsService.SendDNS()).Returns(true);
         // Act
-        var result = _pingService.SendPing();
+        string result = _pingService.SendPing();
         // Assert
         string expected = "ping";
         Assert.Equal(expected, result);
         result.Should().Be("ping"); // 위와 같음 
-        result.Should().NotBeNull();
+        result.Should().NotBeNu l();
         
 
     }
